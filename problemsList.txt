@@ -62,7 +62,7 @@
        Ex - 12321 - Rerverse - 12321
 38- Accept a number and check if it is a strong number or not (Sum of factorial of each digit)
        Ex- 145 = 1! + 4! + 5! = 145 										//hold
-39- Automorphic number 5 = 25 = 625 = 390625, 6=36, 76 = 5776
+39- Automorphic number 5 = 25,  625 = 390625, 6=36, 76 = 5776
 ----------------------------------------------------------------DO WHILE, SWITCH------------------------------------------------
 40- Print hello until user gives wrong input using do while
 41- Make a choice based calculator using do while
